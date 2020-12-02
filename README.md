@@ -8,3 +8,7 @@ Queries written for a sales database [Link:](https://www.mysqltutorial.org/mysql
 ##Find out which year saw the most revenue generated and rank the years in order of revenue generated
 
 ##Find out which year saw the most revenue generated and rank the years in order of revenue generated
+
+Queries written for employees database(Obtained from Udemy Course: The Business Intelligene Analyst Course 2020
+
+##
