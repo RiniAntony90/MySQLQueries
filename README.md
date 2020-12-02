@@ -11,6 +11,8 @@ Queries written for a sales database [Link:](https://www.mysqltutorial.org/mysql
 
 Queries written for employees database(Obtained from Udemy Course: The Business Intelligene Analyst Course 2020
 
-##Find out the Average salary of each department
+##Find out the Average salary of each department  
+
+##Find the sum of salary aross departments for the year 2010
 
 
